@@ -1,3 +1,0 @@
-server:
-  servlet:
-    context-path: /farm-collector/v1
